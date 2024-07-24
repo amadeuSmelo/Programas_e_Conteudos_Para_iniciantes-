@@ -1,2 +1,2 @@
 # Programas_e_Conteudos_Para_iniciantes 
- programas e conteudos para  quem esta entrando agora no mundo da programação!  :)
+ programas e conteudos basicos pra quem que entender por onde começa no mundo da programação usando a linguagem Python! :)
